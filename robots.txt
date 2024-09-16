@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vuhofihoyu.netlify.app/sitemap.xml
